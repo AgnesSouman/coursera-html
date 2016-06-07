@@ -17,6 +17,7 @@ body {
 	border-radius: 0;
 	border: 0;
 	height: 100px;
+	Z-index: 10;
 }
 
 h1 {
